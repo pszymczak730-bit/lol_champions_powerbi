@@ -12,9 +12,8 @@ Power BI report analyzing champion data across patches.
 1. Champion release history — roster growth over time
 2. Base stats comparison — HP, damage, speed, range across patches
 3. Roles and positions — meta distribution
-4. Change history — most reworked and neglected champions
-5. Difficulty ratings — heatmap and scatter analysis
-6. Champion card — full profile for a selected champion
+4. Difficulty ratings — heatmap and scatter analysis
+5. Champion card — full profile for a selected champion
 
 ## Database schema
 ![Schema](docs/schema.png)
