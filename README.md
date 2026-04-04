@@ -5,7 +5,7 @@ Power BI report analyzing champion data across patches.
 ## Tech stack
 - **PostgreSQL** — relational database with 10+ tables
 - **Python / Jupyter** — ETL pipeline for loading patch data
-- **Power BI** — 6-page interactive report
+- **Power BI** — 5-page interactive report
 - **DAX** — custom measures for time intelligence and rankings
 
 ## Report pages
