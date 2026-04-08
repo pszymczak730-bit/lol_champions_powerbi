@@ -18,12 +18,5 @@ Power BI report analyzing champion data across patches.
 ## Database schema
 ![Schema](docs/schema.png)
 
-## How to run
-1. Install PostgreSQL and create a database
-2. Run `database/schema.sql` to create tables and views
-3. Run `database/setup.ipynb` to load initial data
-4. For each new patch run `notebooks/insert_patch.ipynb`
-5. Open `powerbi/report.pbix` and refresh data source
-
 ## Data source
 Champion data scraped from the official League of Legends wiki.
