@@ -5,12 +5,12 @@ across patches, built on a custom PostgreSQL database with a
 Python ETL pipeline.
 
 ## Tech stack
-- **PostgreSQL** — relational database with 10+ tables
+- **PostgreSQL** — relational database with 10+ tables and views
 - **Python / Jupyter** — ETL pipeline for loading patch data
-- **Power BI** — 5-page interactive report
-- **DAX** — custom measures for time intelligence and rankings
+- **Power BI / DAX** — 5-page interactive report with custom measures
 
 ## Report pages
+Preview available in the docs folder.
 1. Champion release history — roster growth over time
 2. Base stats comparison — HP, damage, speed, range across patches
 3. Roles and positions — meta distribution
@@ -21,5 +21,6 @@ Python ETL pipeline.
 ![Schema](docs/schema.png)
 
 ## Data source
-Champion data scraped from the official League of Legends wiki.
+Champion statistics scraped from the League of Legends Wiki,
+available via Kaggle:
 https://www.kaggle.com/code/laurenainsleyhaines/25-11-league-of-legends-champion-data-exracter
