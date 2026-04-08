@@ -20,3 +20,4 @@ Power BI report analyzing champion data across patches.
 
 ## Data source
 Champion data scraped from the official League of Legends wiki.
+https://www.kaggle.com/code/laurenainsleyhaines/25-11-league-of-legends-champion-data-exracter
