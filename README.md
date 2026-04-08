@@ -1,6 +1,8 @@
 # League of Legends Champion Analytics
 
-Power BI report analyzing champion data across patches.
+Power BI report analyzing champion statistics and release history 
+across patches, built on a custom PostgreSQL database with a 
+Python ETL pipeline.
 
 ## Tech stack
 - **PostgreSQL** — relational database with 10+ tables
